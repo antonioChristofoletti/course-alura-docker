@@ -2,7 +2,7 @@
 
 ### What is It?
 
-Commands used to configure and manage a group of related containers. Enabling managing many containers with simples commands.
+Tool used to configure and manage a group of related containers. Enabling managing many containers with simples commands.
 
 ## Docker Swarm
 
