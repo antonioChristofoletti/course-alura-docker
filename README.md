@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Just a repository for save the practice and study material about the alura course docker.
+Just a repository for save the practice and study material about the docker.
 
 ## My Notes
 
