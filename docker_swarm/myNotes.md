@@ -4,6 +4,14 @@
 
 Tool used to configure and manage a group of related containers. Enabling managing many containers with simples commands.
 
+## Docker Machine
+
+### What is it?
+
+Tool used to manage the Docker Clients in different environments. It can also create docker environments to run the applications.
+
+Using it, It is easy to switch the Docker Host or making an upgrade.
+
 ## Docker Swarm
 
 ### What is it?
@@ -15,14 +23,6 @@ Used to manage a group of docker engines as a single entity and provide orchestr
 - Handle the containers automatically;
 - Define which machines have the best specifications to run specific containers;
 - Handle a whole clusters of virtual or not virtual machines with containers.
-
-## Docker Machine
-
-### What is it?
-
-Tool used to manage the Docker Clients in different environments. It can also create docker environments to run the applications.
-
-Using it, It is easy to switch the Docker Host or making an upgrade.
 
 ### Concepts
 
