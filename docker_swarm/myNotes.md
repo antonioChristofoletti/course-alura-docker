@@ -20,7 +20,7 @@ Used to manage a group of docker engines as a single entity and provide orchestr
 
 ### What is it?
 
-Used to manage the Docker Clients in different environments. It can also create docker environments to run the applications.
+Tool used to manage the Docker Clients in different environments. It can also create docker environments to run the applications.
 
 Using it, It is easy to switch the Docker Host or making an upgrade.
 
